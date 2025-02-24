@@ -5,4 +5,5 @@ Los estudiantes avanzarán mediante un sistema de estrellas, donde cada nivel su
 Cada nivel representa un concepto educativo, como suma, resta, multiplicación y fracciones, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 Los jugadores aprenderán fracciones mediante rompecabezas de figuras geométricas.
 Se reforzará la multiplicación a través de desafíos de velocidad con tiempo límite y las evaluaciones se realizarán mediante cuestionarios interactivos, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para [PLATAFORMAS]. Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de juego fluida y atractiva.
+El juego se desarrollará usando Unity y tendrá soporte para PC, tablets y dispositivos móviles.
+Además, se implementarán características como gráficos 3D optimizados, integración con bases de datos para el progreso de los estudiantes y compatibilidad con controles táctiles para garantizar una experiencia de juego fluida y atractiva.
